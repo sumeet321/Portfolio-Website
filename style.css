@@ -389,6 +389,14 @@ header{
 	grid-template-columns: repeat(3, 1fr);
 }
 
+
+.text-block{
+	position: relative;
+	background-color: var(--clr-dark);
+	color: var(--clr-light);
+	text-align: center;
+}
+
 .portforlio__item{
 	background: var(--clr-accent);
 	overflow: hidden;
