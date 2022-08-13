@@ -389,12 +389,12 @@ header{
 	grid-template-columns: repeat(3, 1fr);
 }
 
-
 .text-block{
 	position: relative;
 	background-color: var(--clr-dark);
 	color: var(--clr-light);
 	text-align: center;
+	bottom: 15px;
 }
 
 .portforlio__item{
@@ -459,8 +459,4 @@ header{
 
 .social-list__link{
 	padding: .5em;
-}
-
-
-
 }
