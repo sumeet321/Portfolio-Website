@@ -454,7 +454,7 @@ header{
 }
 
 .social-list__item{
-	margin: 0 .5em;
+	margin: auto;
 }
 
 .social-list__link{
